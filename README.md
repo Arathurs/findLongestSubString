@@ -1,6 +1,6 @@
 # lengthOfLargestSubString v1.0
 
-lengthOfLargestSubString() is a JavaScript function to find the longest substring in a given string which does not contain repeats.
+lengthOfLargestSubString() is a JavaScript function to find the longest substring in a given string which does not contain repeats. This solution solves 100% of LC cases.
 
 # Example 1:
 
